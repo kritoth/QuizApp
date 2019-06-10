@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Quiz App</string>
+    <string name="video_game_2">Video Game 2</string>
+    <string name="video_game_1">Video Game 1</string>
+    <string name="video_game_3">Video Game 3</string>
+    <string name="video_game_4">Video Game 4</string>
 </resources>
